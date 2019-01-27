@@ -2,6 +2,9 @@
 this is just a boilerplate of adding redux into react projects
 it dose not mean other structures are right or wonrg but this is my point of view.
 
+after download the package go to downloaded repo and in your terminal wirte
+### `npm install`
+then hit Enter.
 
 ## What is Added ?
 
