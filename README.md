@@ -1,3 +1,13 @@
+## Redux Boilerplate For React Developers
+this is just a boilerplate of adding redux into react projects
+it dose not mean other structures are right or wonrg but this is my point of view.
+
+
+## What is Added ?
+
+redux redux-thunk react-readux
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
